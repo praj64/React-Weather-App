@@ -19,7 +19,7 @@ html {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
-  width: 500px;
+  width: 300px;
   min-height: 440px;
   /* background-color: #ffffff; */
   color: aliceblue;
