@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Live Demo:https://euphonious-tapioca-cad71f.netlify.app
+Live Demo: https://weather-app-by-prajakta.netlify.app/
 
 ## Available Scripts
 
